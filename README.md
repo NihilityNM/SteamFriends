@@ -14,7 +14,8 @@
 
 ## Steam好友列表
 
-| Avatar                                                                            | Name               | steamid                                                                     | is_friend   | BFD                 | Remark   |
-|:----------------------------------------------------------------------------------|:-------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS          | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ✅           | 2022-08-14 01:06:38 |          |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT               | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ✅           | 2021-10-02 11:23:03 |          |
+| Avatar                                                                            | Name      | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
+|:----------------------------------------------------------------------------------|:----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
+| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2025-02-07 16:37:54 |
+| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT      | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2025-02-07 16:37:54 |
+| ![](https://avatars.steamstatic.com/752eb38c3b0bc6f74708ec2c3d44d00bda41edde.jpg) | 龙猫      | [76561198417774641](https://steamcommunity.com/profiles/76561198417774641/) | ✅           | 2025-02-07 07:50:47 |          |                     |
